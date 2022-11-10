@@ -1,0 +1,15 @@
+D:\Computer_Science\Dawson\Semester_3\C#(Soft_Dev_II)\Labs\lab2\BMI_Calculator_Alin_Caia\BMI_Calculator_Alin_Caia\obj\Debug\BMI_Calculator_Alin_Caia.csprojAssemblyReference.cache
+D:\Computer_Science\Dawson\Semester_3\C#(Soft_Dev_II)\Labs\lab2\BMI_Calculator_Alin_Caia\BMI_Calculator_Alin_Caia\obj\Debug\MainWindow.g.cs
+D:\Computer_Science\Dawson\Semester_3\C#(Soft_Dev_II)\Labs\lab2\BMI_Calculator_Alin_Caia\BMI_Calculator_Alin_Caia\obj\Debug\App.g.cs
+D:\Computer_Science\Dawson\Semester_3\C#(Soft_Dev_II)\Labs\lab2\BMI_Calculator_Alin_Caia\BMI_Calculator_Alin_Caia\obj\Debug\BMI_Calculator_Alin_Caia_MarkupCompile.cache
+D:\Computer_Science\Dawson\Semester_3\C#(Soft_Dev_II)\Labs\lab2\BMI_Calculator_Alin_Caia\BMI_Calculator_Alin_Caia\obj\Debug\BMI_Calculator_Alin_Caia_MarkupCompile.lref
+D:\Computer_Science\Dawson\Semester_3\C#(Soft_Dev_II)\Labs\lab2\BMI_Calculator_Alin_Caia\BMI_Calculator_Alin_Caia\bin\Debug\BMI_Calculator_Alin_Caia.exe.config
+D:\Computer_Science\Dawson\Semester_3\C#(Soft_Dev_II)\Labs\lab2\BMI_Calculator_Alin_Caia\BMI_Calculator_Alin_Caia\bin\Debug\BMI_Calculator_Alin_Caia.exe
+D:\Computer_Science\Dawson\Semester_3\C#(Soft_Dev_II)\Labs\lab2\BMI_Calculator_Alin_Caia\BMI_Calculator_Alin_Caia\bin\Debug\BMI_Calculator_Alin_Caia.pdb
+D:\Computer_Science\Dawson\Semester_3\C#(Soft_Dev_II)\Labs\lab2\BMI_Calculator_Alin_Caia\BMI_Calculator_Alin_Caia\obj\Debug\MainWindow.baml
+D:\Computer_Science\Dawson\Semester_3\C#(Soft_Dev_II)\Labs\lab2\BMI_Calculator_Alin_Caia\BMI_Calculator_Alin_Caia\obj\Debug\BMI_Calculator_Alin_Caia.g.resources
+D:\Computer_Science\Dawson\Semester_3\C#(Soft_Dev_II)\Labs\lab2\BMI_Calculator_Alin_Caia\BMI_Calculator_Alin_Caia\obj\Debug\BMI_Calculator_Alin_Caia.Properties.Resources.resources
+D:\Computer_Science\Dawson\Semester_3\C#(Soft_Dev_II)\Labs\lab2\BMI_Calculator_Alin_Caia\BMI_Calculator_Alin_Caia\obj\Debug\BMI_Calculator_Alin_Caia.csproj.GenerateResource.cache
+D:\Computer_Science\Dawson\Semester_3\C#(Soft_Dev_II)\Labs\lab2\BMI_Calculator_Alin_Caia\BMI_Calculator_Alin_Caia\obj\Debug\BMI_Calculator_Alin_Caia.csproj.CoreCompileInputs.cache
+D:\Computer_Science\Dawson\Semester_3\C#(Soft_Dev_II)\Labs\lab2\BMI_Calculator_Alin_Caia\BMI_Calculator_Alin_Caia\obj\Debug\BMI_Calculator_Alin_Caia.exe
+D:\Computer_Science\Dawson\Semester_3\C#(Soft_Dev_II)\Labs\lab2\BMI_Calculator_Alin_Caia\BMI_Calculator_Alin_Caia\obj\Debug\BMI_Calculator_Alin_Caia.pdb
